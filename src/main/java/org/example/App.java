@@ -5,8 +5,6 @@ import org.example.tasks.FirstTask;
 import org.example.tasks.SecondTask;
 import org.example.tasks.ThirdTask;
 
-import java.util.Arrays;
-
 public class App {
     public static void main(String[] args) {
         InputReaderHelper reader = new InputReaderHelper();

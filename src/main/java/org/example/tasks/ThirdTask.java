@@ -1,7 +1,6 @@
 package org.example.tasks;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ThirdTask {
 
